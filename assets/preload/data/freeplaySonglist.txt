@@ -1,0 +1,4 @@
+Byte:byte:1
+Woof:byte:1
+Howl:byte:1
+Ok:byte:1
